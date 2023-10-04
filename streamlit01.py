@@ -10,5 +10,5 @@ with col1:
     #st.header("Versicolor")
     st.image("./pic/images.jpg")
 
-st.header(วริศ ศรตีงกิม)
+st.header("วริศ ศรตีงกิม")
 st.subheader('My sub')
